@@ -7,7 +7,8 @@
   "homepage": "https://github.com/akveo/react-native-ui-kitten#readme",
   "repository": {
     "type": "git",
-    "url": "git@github.com:PatrykMoskal/react-native-ui-kitten.git"
+    "url": "git+https://github.com:PatrykMoskal/react-native-ui-kitten.git"
+
   },
   "bugs": {
     "url": "https://github.com/akveo/react-native-ui-kitten/issues"
